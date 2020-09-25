@@ -55,4 +55,4 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn_guardar" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>   cotuza estas ai
+</androidx.constraintlayout.widget.ConstraintLayout> 
